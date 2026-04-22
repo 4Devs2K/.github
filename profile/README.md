@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/4Devs2K/.github/raw/main/profile/4Devs2K-banner-en.png" alt="4Devs2K" width="100%" />
+  <img src="https://github.com/4Devs2K/.github/raw/main/profile/4Devs2K-banner-rounded-en.png" alt="4Devs2K" width="100%" />
 </p>
 
 <h2 align="center">4Devs2K</h2>
@@ -8,6 +8,9 @@
   Developers growing together, building cool projects.
   <br />
   Open collaboration, practical learning, and community-driven open source.
+  <br />
+  <br />
+  <a href="https://github.com/4Devs2K/4Devs2K"><strong>Visit Our Hub Repository</strong></a>
 </p>
 
 ## Welcome
@@ -16,6 +19,7 @@
 
 ## Start Here
 
+- Hub Repository: https://github.com/4Devs2K/4Devs2K
 - Discussions: https://github.com/orgs/4Devs2K/discussions
 - Repositories: https://github.com/orgs/4Devs2K/repositories
 - Organization: https://github.com/4Devs2K
